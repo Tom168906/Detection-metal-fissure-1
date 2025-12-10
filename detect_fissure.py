@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 0ni1aLOl4URBmjk08gjY
+API_KEY = "0ni1aLOl4URBmjk08gjY"
 MODEL_URL = https://serverless.roboflow.com
 
 image_path = "C:/Users/Tom/ImagesTest/fissure.jpg"
