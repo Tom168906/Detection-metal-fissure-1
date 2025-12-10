@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "VOTRE_CLE_API"
-MODEL_URL = "VOTRE_URL_MODELE"
+API_KEY = 0ni1aLOl4URBmjk08gjY
+MODEL_URL = https://serverless.roboflow.com
 
 image_path = "fissure1.jpg"
 
