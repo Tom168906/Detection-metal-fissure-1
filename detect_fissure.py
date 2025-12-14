@@ -13,3 +13,5 @@ with open(image_path, "rb") as f:
     )
 
 print("Résultat JSON :", response.json())
+
+Delete detect_fissure.py (cleanup)
